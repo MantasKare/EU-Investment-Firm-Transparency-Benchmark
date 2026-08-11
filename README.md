@@ -8,7 +8,7 @@ This project benchmarks the scope and transparency of publicly available informa
 
 The analysis focuses on supervisory disclosures, prudential statistics, public investment firm registers, market-level information and the availability of institution-level financial and prudential indicators.
 
-![Transparency Benchmark Dashboard](dashboard.png.png)
+![Transparency Benchmark Dashboard](dashboard.png)
 
 ## Key Findings
 
@@ -21,13 +21,13 @@ The analysis focuses on supervisory disclosures, prudential statistics, public i
 
 The jurisdictions were assessed based on the scope and depth of publicly available supervisory and market information.
 
-![Cross-Country Summary](summary.png.png)
+![Cross-Country Summary](summary.png)
 
 ## Country Analysis Example – Denmark
 
 Denmark was one of the jurisdictions where institution-level financial and prudential indicators were identified, alongside broader market and supervisory statistics.
 
-![Denmark Analysis](denmark-analysis.png.png)
+![Denmark Analysis](denmark-analysis.png)
 
 ## Methodology
 
